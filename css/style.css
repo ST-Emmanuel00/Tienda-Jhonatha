@@ -139,7 +139,7 @@ h3,h2{
     transition: all 400ms ease-in-out;
 }
 .parallax{
-    background-image: url(/img/about.jpg);
+    background-image: url(../img/about.jpg);
     background-size: auto;
     background-repeat: no-repeat;
     background-attachment: fixed;
